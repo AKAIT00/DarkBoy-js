@@ -1,12 +1,12 @@
 ### Hi there, I'm DarkBoy! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darkboy-js-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-2/697279777974911077.png)
 
-<a href="https://discord.gg/YsFTYxU">
+
+<a href="https://discord.gg/RNPpFkeDUy">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/darkboy">
+<a href="https://twitter.com/aka_rm5">
   <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
  <a href="https://github.com/Darkboy-js">
